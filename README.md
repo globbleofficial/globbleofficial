@@ -1,56 +1,69 @@
 # Hey there! 👋
 
-I'm **ASHU SHARMA**, a SDE & UI/UX Design  Engineer based in India.
+I'm **ASHU SHARMA** — an SDE & UI/UX Design Engineer based in India.
 
-I like building things, breaking things, and occasionally figuring out why they broke.
+> I like building things, breaking things, and turning random ideas into projects.
 
-If I get an idea stuck in my head, there's a pretty good chance I'll turn it into a project.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🛠️ What I use
+### 🛠️ Tech Stack
 
-My usual stack is:
-
-- HTML, CSS
-- React / Next.js
+- HTML • CSS
+- React • Next.js
 - Python
 - Tailwind CSS
 - Node.js
-- C programming Language
+- C
 
-I'm always experimenting with new tools and technologies.
+</td>
+<td width="50%" valign="top">
 
-### 🚀 Things I've built
+### 🚀 Projects
 
-I've made a bunch of random projects, but here are a few I'm particularly proud of:
+- **Temporary Mail Bot**  
+  Telegram-based temporary email generator.
 
-- **[Temporary Mail Bot]** — [An temporary mail generator in telegram to get mails other than your personal one in which you got verification code to prevent your personal mail folder to get spam by attackers from third party websites.]
-- **[Gurgaon Real Estate Price Prediction]** — [For Prediction of Real Estate Properties In Gurgaon]
-- **[Globble-Converter]** — [Wokring on Project with Friend in Oil and Gas Values Real Time Converter]
+- **Gurgaon Real Estate Prediction**  
+  Property price prediction system.
 
-You can find more of my work in my **[portfolio](Comming Soon)**.
+- **Globble Converter**  
+  Real-time Oil & Gas unit converter.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🌱 Currently
 
-- 🔨 Building **[Personal B&D Portfolio Website]**
-- 📚 Learning **[Advance SDE tools as well as Analytical Tools such as Tableu and PowerBI]**
-- 💡 Thinking about **[Working In Real Estate as Sales/Relationship Manager]**
-- 🐛 Fighting bugs that definitely weren't there five minutes ago
+🔨 Building my personal portfolio  
+📚 Learning advanced SDE + Tableau & Power BI  
+💡 Exploring Real Estate & Sales  
+🐛 Fighting unexpected bugs
 
-### ⚡ Fun facts
+</td>
+<td width="50%" valign="top">
 
-- ☕ [Coffee / tea / Softy]
-- 🎮 [Chess/Minecraft]
-- 🎵 [On My Way / Alan Walker]
-- 🐱 [Dogs and Horse]
-- 🌙 I do some of my best coding at questionable hours
-- 🧠 I have way too many project ideas
+### ⚡ Fun Facts
 
-### 📫 Find me
+☕ Coffee • Tea • Softy  
+🎮 Chess • Minecraft  
+🎵 Alan Walker — *On My Way*  
+🐕 Dogs • 🐎 Horses  
+🌙 Night-time coder  
+🧠 Too many ideas
 
-- 🌐 **Website:** [Comming Soon]
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/globble/]
-- 📧 **Email:** [Globble@yahoo.com]
+</td>
+</tr>
+</table>
 
----
+### 📫 Connect
 
-> *"Build things you're excited about."*
+🌐 **Portfolio:** Coming Soon  
+💼 **LinkedIn:** [globble](https://www.linkedin.com/in/globble/)  
+📧 **Email:** Globble@yahoo.com
+
+> *Build things you're excited about.* 🚀
