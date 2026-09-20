@@ -15,7 +15,7 @@ I'm **ASHU SHARMA** — an SDE & UI/UX Design Engineer based in India.
 - Python
 - Tailwind CSS
 - Node.js
-- C
+- C, Java
 
 </td>
 <td width="50%" valign="top">
