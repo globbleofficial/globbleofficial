@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **[ASHU SHARMA]**, a [SDE & UI/UX Design  Engineer] based in [India].
+I'm **ASHU SHARMA**, a SDE & UI/UX Design  Engineer based in India.
 
 I like building things, breaking things, and occasionally figuring out why they broke.
 
@@ -10,12 +10,12 @@ If I get an idea stuck in my head, there's a pretty good chance I'll turn it int
 
 My usual stack is:
 
-- [HTML, CSS]
-- [React / Next.js]
-- [Python]
-- [Tailwind CSS]
-- [Node.js]
-- [C programming Language]
+- HTML, CSS
+- React / Next.js
+- Python
+- Tailwind CSS
+- Node.js
+- C programming Language
 
 I'm always experimenting with new tools and technologies.
 
