@@ -31,7 +31,7 @@ You can find more of my work in my **[portfolio](Comming Soon)**.
 
 ### 🌱 Currently
 
-- 🔨 Building **[Personal B&D]**
+- 🔨 Building **[Personal B&D Portfolio Website]**
 - 📚 Learning **[Advance SDE tools as well as Analytical Tools such as Tableu and PowerBI]**
 - 💡 Thinking about **[Working In Real Estate as Sales/Relationship Manager]**
 - 🐛 Fighting bugs that definitely weren't there five minutes ago
@@ -41,7 +41,7 @@ You can find more of my work in my **[portfolio](Comming Soon)**.
 - ☕ [Coffee / tea / Softy]
 - 🎮 [Chess/Minecraft]
 - 🎵 [On My Way / Alan Walker]
-- 🐱 [Dogs nd Horse]
+- 🐱 [Dogs and Horse]
 - 🌙 I do some of my best coding at questionable hours
 - 🧠 I have way too many project ideas
 
