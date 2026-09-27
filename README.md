@@ -51,7 +51,7 @@
 </td>
 <td width="33.33%" valign="top">
 
-### ⚡ Fun Facts
+### ⚡ Interests
 
 ☕ Coffee • Tea • Softy  
 🎮 Chess • Minecraft  
