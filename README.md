@@ -12,7 +12,7 @@
 
 <!-- Dono ki height same fix kar di hai (250). Isse alignment perfect rahega -->
 <div align="center">
-  <img src="IDCARD.png" alt="ID Card" height="310" />
+  <img src="IDCARD.png" alt="ID Card" height="300" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="tech.png" alt="Tech Stack" height="320" />
 </div>
