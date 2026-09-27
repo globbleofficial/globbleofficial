@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="readme banner.png" alt="Ashu Sharma Banner" width="100%" />
+  <img src="readme  banner.png" alt="Ashu Sharma Banner" width="100%" />
 </div>
 
 <br/>
