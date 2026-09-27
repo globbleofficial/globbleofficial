@@ -85,9 +85,10 @@
 </div>
 
 <br/>
-
+<a href="#">
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
+   
   <img src="https://skillicons.dev/icons?i=java,js,ts,py,cs,c" />
 </p>
 
@@ -121,3 +122,4 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma" />
 </p>
+</a>
