@@ -12,13 +12,6 @@
    <a href="#">
   <img src="readme  banner.png" alt="Ashu Sharma Banner" width="100%" />
 </div>
-
-<blockquote>
-  <h2 align="center">
-    <em>"I like building things, breaking things, and turning random ideas into projects."</em>
-  </h2>
-</blockquote>
-
 <!-- Width ko percentage me rakha hai taaki profile page par images upar-neeche wrap na hon -->
 <div align="center">
    <a href="#">
