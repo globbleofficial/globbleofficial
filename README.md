@@ -26,7 +26,7 @@
 
 🔨 Building my personal portfolio  
 📚 Learning advanced SDE + Tableau & Power BI  
-💡 Exploring Real Estate & Sales  
+💡 Exploring Ocean  
 🐛 Fighting unexpected bugs
 
 </td>
