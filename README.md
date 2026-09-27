@@ -80,9 +80,8 @@
 </div>
 
 <br/>
-<blockquote>
-  <h3 align="center">
-    <em>"Build things you're excited about. 🚀"</em>
-  </h3>
-</blockquote>
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,c,tailwindcss,javascript,typescript,react,python,java,git,github,linux,vscode" />
+
+</div>
