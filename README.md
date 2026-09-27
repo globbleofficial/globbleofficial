@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="readme  banner.jpg" alt="Ashu Sharma Banner" width="100%" />
+</div>
+
+<br/>
+
+# The best way to predict the future is to build it. 🐎
 # The best way to predict the future is to build it. 🐎
 
 I'm **ASHU SHARMA** — an SDE based in India.
