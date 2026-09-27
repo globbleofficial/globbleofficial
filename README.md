@@ -3,11 +3,11 @@
   <img src="readme  banner.png" alt="Ashu Sharma Banner" width="100%" />
 </div>
 
-<br/>
-
-> I like building things, breaking things, and turning random ideas into projects.
-
-<br/>
+<blockquote>
+  <h2 align="center">
+    <em>"I like building things, breaking things, and turning random ideas into projects."</em>
+  </h2>
+</blockquote>
 
 <!-- Width ko percentage me rakha hai taaki profile page par images upar-neeche wrap na hon -->
 <div align="center">
@@ -78,5 +78,9 @@
 </div>
 
 <br/>
+<blockquote>
+  <h3 align="center">
+    <em>"Build things you're excited about. 🚀"</em>
+  </h3>
+</blockquote>
 
-> *Build things you're excited about.* 🚀
