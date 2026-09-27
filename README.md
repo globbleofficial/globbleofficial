@@ -6,8 +6,6 @@
 
 # The best way to predict the future is to build it. 🐎
 
-I'm **ASHU SHARMA** — an SDE based in India.
-
 > I like building things, breaking things, and turning random ideas into projects.
 
 <table>
