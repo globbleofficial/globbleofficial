@@ -8,38 +8,20 @@
 
 > I like building things, breaking things, and turning random ideas into projects.
 
-<table>
+<br/>
+
+<!-- Dono ki height same fix kar di hai (250). Isse alignment perfect rahega -->
+<div align="center">
+  <img src="IDCARD.png" alt="ID Card" height="320" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="tech.png" alt="Tech Stack" height="320" />
+</div>
+
+<br/>
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🛠️ Tech Stack
-
-- HTML • CSS
-- React • Next.js
-- Python
-- Tailwind CSS
-- Node.js
-- C, Java
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Projects
-
-- **Temporary Mail Bot**  
-  Telegram-based temporary email generator.
-
-- **Gurgaon Real Estate Prediction**  
-  Property price prediction system.
-
-- **Globble Converter**  
-  Real-time Oil & Gas unit converter.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🌱 Currently
 
@@ -49,7 +31,21 @@
 🐛 Fighting unexpected bugs
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### 🚀 Projects
+
+- **Temporary Mail Bot**  
+  Telegram temporary email generator.
+
+- **Gurgaon Real Estate**  
+  Property price prediction system.
+
+- **Globble Converter**  
+  Real-time Oil & Gas unit converter.
+
+</td>
+<td width="33%" valign="top">
 
 ### ⚡ Fun Facts
 
