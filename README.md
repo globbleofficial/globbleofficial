@@ -64,16 +64,16 @@
 <!-- Social Media Badges Row -->
 <div align="center">
   <a href="https://github.com/globbleofficial">
-    <img src="readme-aura-component-3-6a5a53df.svg" alt="GitHub" />
+    <img src="GitHub Icon.svg" alt="GitHub" />
   </a>
   <a href="#">
-    <img src="readme-aura-component-4-f83582a4.svg" alt="Instagram" />
+    <img src="instagram icon.svg" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/globble/">
     <img src="linkdin icon.svg" alt="LinkedIn" />
   </a>
   <a href="mailto:Globble@yahoo.com">
-    <img src="readme-aura-component-6-a03d600a.svg" alt="Gmail" />
+    <img src="gmail icon.svg" alt="Gmail" />
   </a>
 </div>
 
