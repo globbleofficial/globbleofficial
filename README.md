@@ -109,7 +109,7 @@
 
 <h3 align="left">Database:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
 <h3 align="left">AI/ML & Data:</h3>
