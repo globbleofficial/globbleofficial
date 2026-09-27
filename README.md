@@ -1,4 +1,4 @@
-# The best way to predict the future is to build it. 🐎
+# The Best Way To Predict The Future is to Build it. 
 <div align="center">
   <img src="readme  banner.png" alt="Ashu Sharma Banner" width="100%" />
 </div>
