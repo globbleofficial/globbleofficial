@@ -1,4 +1,13 @@
-# The Best Way To Predict The Future is to Build it. 
+<br/>
+<br/>
+<!-- Typing animation -->
+<div align="center">  
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&width=435&lines=Developer.+Builder.+Tinkerer.;Crafting+Clean+Projects.;Always+Happy%2C+Always+Learning." alt="Typing SVG" /></a> 
+</div>
+
+<br/>
+<br/>
+
 <div align="center">
    <a href="#">
   <img src="readme  banner.png" alt="Ashu Sharma Banner" width="100%" />
