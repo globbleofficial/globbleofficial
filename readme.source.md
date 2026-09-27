@@ -272,7 +272,7 @@
 </div>
 ```
 
-```aura width=120 height=44 link="https://github.com/codeweb-dev" inline align=center
+```aura width=120 height=44 link="https://github.com/globbleofficial" inline align=center
 <SocialMediaButton
   icon="https://cdn.simpleicons.org/github/ffffff"
   text="GitHub"
@@ -290,43 +290,7 @@
 />
 ```
 
-```aura width=145 height=44 link="https://www.instagram.com/iam.allvn/" inline
-<SocialMediaButton
-  icon="https://cdn.simpleicons.org/instagram/E4405F"
-  text="Instagram"
-  backgroundColor="#2b0a2b"
-  width={145}
-  height={44}
-  gradientStops={[
-    { offset: '0%', color: '#ffffff' },
-    { offset: '10%', color: '#111111' },
-    { offset: '50%', color: '#eeeeee' },
-    { offset: '60%', color: '#E4405F' },
-    { offset: '80%', color: '#111111' },
-    { offset: '100%', color: '#555555' },
-  ]}
-/>
-```
-
-```aura width=140 height=44 link="https://www.facebook.com/alleningrahamlabrague" inline
-<SocialMediaButton
-  icon="https://cdn.simpleicons.org/facebook/1877F2"
-  text="Facebook"
-  backgroundColor="#0d1b3d"
-  width={140}
-  height={44}
-  gradientStops={[
-    { offset: '0%', color: '#ffffff' },
-    { offset: '10%', color: '#111111' },
-    { offset: '50%', color: '#eeeeee' },
-    { offset: '60%', color: '#1877F2' },
-    { offset: '80%', color: '#111111' },
-    { offset: '100%', color: '#555555' },
-  ]}
-/>
-```
-
-```aura width=120 height=44 link="mailto:allenlabrague06@gmail.com" inline
+```aura width=120 height=44 link="mailto:globble@yahoo.com" inline
 <SocialMediaButton
   icon="https://cdn.simpleicons.org/gmail/EA4335"
   text="Gmail"
