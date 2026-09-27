@@ -85,8 +85,39 @@
 </div>
 
 <br/>
-<div align="center">
-<a href="#">
-<img src="https://skillicons.dev/icons?i=html,css,c,tailwindcss,javascript,typescript,react,python,java,git,github,linux,vscode" />
 
-</div>
+<h3 align="left">Programming Languages:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,cs,c" />
+</p>
+
+<h3 align="left">Frontend Development:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+<h3 align="left">Backend Development:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+<h3 align="left">Mobile Development:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+</p>
+
+<h3 align="left">Database:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+<h3 align="left">AI/ML & Data:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="48" height="48"/>
+</p>
+
+<h3 align="left">Cloud, DevOps & Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma" />
+</p>
