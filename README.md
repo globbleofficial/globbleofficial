@@ -12,7 +12,10 @@
    <a href="#">
   <img src="readme  banner.png" alt="Ashu Sharma Banner" width="100%" />
 </div>
-<!-- Width ko percentage me rakha hai taaki profile page par images upar-neeche wrap na hon -->
+
+  <br/>
+  
+<!-- Width -->
 <div align="center">
    <a href="#">
   <img src="techstack.png" alt="ID Card" width="100%" />
