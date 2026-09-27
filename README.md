@@ -10,11 +10,10 @@
 
 <br/>
 
-<!-- Dono ki height same fix kar di hai (250). Isse alignment perfect rahega -->
+<!-- Width ko percentage me rakha hai taaki profile page par images upar-neeche wrap na hon -->
 <div align="center">
-  <img src="IDCARD.png" alt="ID Card" height="300" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="tech.png" alt="Tech Stack" height="320" />
+  <img src="IDCARD.png" alt="ID Card" width="30%" />
+  <img src="tech.png" alt="Tech Stack" width="66%" />
 </div>
 
 <br/>
