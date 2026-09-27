@@ -1,0 +1,32 @@
+<svg width="145" height="44" viewBox="0 0 145 44" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Shape (Dark Rose Red) -->
+  <path x="0" y="0" width="145" height="44" fill="#4a0a18" d="M22,0 h101 a22,22 0 0 1 22,22 v0 a22,22 0 0 1 -22,22 h-101 a22,22 0 0 1 -22,-22 v0 a22,22 0 0 1 22,-22"/>
+  
+  <defs>
+    <!-- Gmail Red Color Gradient -->
+    <linearGradient id="smb-grad-Gmail" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"></stop>
+      <stop offset="10%" stop-color="#EA4335"></stop>
+      <stop offset="50%" stop-color="#C5221F"></stop>
+      <stop offset="60%" stop-color="#EA4335"></stop>
+      <stop offset="80%" stop-color="#111111"></stop>
+      <stop offset="100%" stop-color="#555555"></stop>
+      <!-- Animation Preserved -->
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite"></animateTransform>
+    </linearGradient>
+  </defs>
+
+  <!-- Animated Border -->
+  <rect x="1.25" y="1.25" width="142.5" height="41.5" rx="20.75" ry="20.75" fill="none" stroke="url(#smb-grad-Gmail)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></rect>
+  
+  <!-- Outer Stroke -->
+  <rect x="0.25" y="0.25" width="144.5" height="43.5" rx="21.75" ry="21.75" fill="none" stroke="#AAAAAA" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"></rect>
+  
+  <!-- Gmail Envelope Icon -->
+  <svg x="26" y="12" width="20" height="20" viewBox="0 0 24 24" fill="#f5f5f5">
+    <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+  </svg>
+  
+  <!-- Gmail Text -->
+  <text x="54" y="26.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#f5f5f5">Gmail</text>
+</svg>
