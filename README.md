@@ -11,6 +11,7 @@
 
 <!-- Width ko percentage me rakha hai taaki profile page par images upar-neeche wrap na hon -->
 <div align="center">
+   <a href="#">
   <img src="techstack.png" alt="ID Card" width="100%" />
 </div>
 
